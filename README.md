@@ -38,8 +38,8 @@ Read more about this project here: [Medium Blog](link)
 ### 📢 **Connect with Me**  
 If you have feedback or want to discuss this project, feel free to connect on **LinkedIn** or check out my **GitHub portfolio**! 😊  
 
-🔗 **GitHub Portfolio**: [[https://github.com/your-username/Data-Analytics-Projects](https://github.com/anjalivijayan23)]  
-🔗 **LinkedIn**: [Your LinkedIn Profile]([your-linkedin-url](https://www.linkedin.com/in/anjali-vijayan-14377a195/))  
+🔗 **GitHub Portfolio**: [(https://github.com/anjalivijayan23)]  
+🔗 **LinkedIn**: [(https://www.linkedin.com/in/anjali-vijayan-14377a195/)]  
 
 ---
 
